@@ -81,6 +81,11 @@ webrecon/
 ### Requirements
 - Python **3.8+**
 
+### Clone the Repository
+```bash
+git clone https://github.com/mhdzayid/WebRecon
+```
+
 ### Install Dependencies
 ```bash
 pip install -r requirements.txt
