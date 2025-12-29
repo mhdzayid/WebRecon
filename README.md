@@ -86,6 +86,10 @@ webrecon/
 git clone https://github.com/mhdzayid/WebRecon
 ```
 
+### Move to the Directory
+```bash
+cd WebRecon
+```
 ### Install Dependencies
 ```bash
 pip install -r requirements.txt
